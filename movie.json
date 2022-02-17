@@ -1,0 +1,12 @@
+{"movies":[
+    {"id":1, "name":"Dhoom", "language":"Hindi","price":200, "releasedate":"12/2/19"},
+    {"id":2, "name":"Singham", "language":"Hindi","price":150, "releasedate":"12/5/19"},
+    {"id":3, "name":"Bro-Daddy", "language":"Malayalam","price":300, "releasedate":"21/1/22"},
+    {"id":4, "name":"Kurup", "language":"Malayalam","price":200, "releasedate":"10/2/21"},
+    {"id":5, "name":"Spiderman-No way home", "language":"English","price":150, "releasedate":"15/10/21"},
+    {"id":6, "name":"Infinity war", "language":"English","price":250, "releasedate":"13/11/19"},
+    {"id":7, "name":"Andhadun", "language":"Hindi","price":150, "releasedate":"20/4/20"},
+    {"id":8, "name":"Housefull", "language":"Hindi","price":200, "releasedate":"22/8/16"},
+    {"id":9, "name":"Minnal Muralli", "language":"Malayalam","price":150, "releasedate":"10/1/22"},
+    {"id":10, "name":"Dhoom3", "language":"Hindi","price":200, "releasedate":"29/2/18"}
+]}
